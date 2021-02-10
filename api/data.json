@@ -1,15 +1,4 @@
 {
-  "announcement": {
-    "id": "0",
-    "en": {
-      "title": "",
-      "text": ""
-    },
-    "gr": {
-      "title": "",
-      "text": ""
-    }
-  },
   "channels": [
     {
       "name": "ERT 1",
