@@ -6,7 +6,7 @@
       "en": "Nationwide"
     },
     {
-      "name": "pan",
+      "name": "top",
       "el": "Τοπικά",
       "en": "Local"
     }
@@ -28,6 +28,46 @@
       "url": "https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2medium.m3u8",
       "icon": "https://greektvapp.github.io/api/logos/ert2.png",
       "epg-id": "ert/ert2.gr"
+    },
+    {
+      "name": "Τεστ καναλι",
+      "category": "top",
+      "type": "m3u",
+      "url": "https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8",
+      "icon": "https://greektvapp.github.io/api/logos/ert1.png",
+      "epg-id": "ert.ert1.gr"
+    },
+    {
+      "name": "ttt channel",
+      "category": "top",
+      "type": "m3u",
+      "url": "https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8",
+      "icon": "https://greektvapp.github.io/api/logos/ert1.png",
+      "epg-id": "ert.ert1.gr"
+    },
+    {
+      "name": "blah blah",
+      "category": "top",
+      "type": "m3u",
+      "url": "https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8",
+      "icon": "https://greektvapp.github.io/api/logos/ert1.png",
+      "epg-id": "ert.ert1.gr"
+    },
+    {
+      "name": "yeeet",
+      "category": "top",
+      "type": "m3u",
+      "url": "https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8",
+      "icon": "https://greektvapp.github.io/api/logos/ert1.png",
+      "epg-id": "ert.ert1.gr"
+    },
+    {
+      "name": "lol",
+      "category": "top",
+      "type": "m3u",
+      "url": "https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8",
+      "icon": "https://greektvapp.github.io/api/logos/ert1.png",
+      "epg-id": "ert.ert1.gr"
     }
   ]
 }
