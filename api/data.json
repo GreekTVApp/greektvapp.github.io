@@ -60,14 +60,6 @@
       "url": "https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8",
       "icon": "https://greektvapp.github.io/api/logos/ert1.png",
       "epg-id": "ert.ert1.gr"
-    },
-    {
-      "name": "lolakhs",
-      "category": "top",
-      "type": "m3u",
-      "url": "https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8",
-      "icon": "https://greektvapp.github.io/api/logos/ert1.png",
-      "epg-id": "ert.ert1.gr"
     }
   ]
 }
