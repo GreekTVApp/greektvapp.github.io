@@ -45,14 +45,6 @@
       "epg-id": "ert/ert2.gr"
     },
     {
-      "name": "ERT 35000",
-      "category": "pan",
-      "type": "m3u",
-      "url": "https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2medium.m3u8",
-      "icon": "https://greektvapp.github.io/api/logos/ert2.png",
-      "epg-id": "ert/ert2.gr"
-    },
-    {
       "name": "ERT 2",
       "category": "pan",
       "type": "m3u",
