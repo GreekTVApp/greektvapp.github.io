@@ -9,6 +9,21 @@
       "name": "top",
       "el": "Τοπικά",
       "en": "Local"
+    },
+    {
+      "name": "music",
+      "el": "Μουσική",
+      "en": "Music"
+    },
+    {
+      "name": "cinema",
+      "el": "Σινεμά",
+      "en": "Cinema"
+    },
+    {
+      "name": "cy",
+      "el": "Κυπριακά",
+      "en": "Cypriot"
     }
   ],
     
@@ -30,7 +45,7 @@
       "epg-id": "ert/ert2.gr"
     },
     {
-      "name": "Τεστ καναλι",
+      "name": "Test Topiko",
       "category": "top",
       "type": "m3u",
       "url": "https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8",
@@ -38,7 +53,7 @@
       "epg-id": "ert.ert1.gr"
     },
     {
-      "name": "ttt channel",
+      "name": "Test Topiko 2",
       "category": "top",
       "type": "m3u",
       "url": "https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8",
@@ -46,24 +61,24 @@
       "epg-id": "ert.ert1.gr"
     },
     {
-      "name": "blah blah",
-      "category": "top",
+      "name": "Test Music",
+      "category": "music",
       "type": "m3u",
       "url": "https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8",
       "icon": "https://greektvapp.github.io/api/logos/ert1.png",
       "epg-id": "ert.ert1.gr"
     },
     {
-      "name": "yeeet",
-      "category": "top",
+      "name": "Test Cinema",
+      "category": "cinema",
       "type": "m3u",
       "url": "https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8",
       "icon": "https://greektvapp.github.io/api/logos/ert1.png",
       "epg-id": "ert.ert1.gr"
     },
     {
-      "name": "lol",
-      "category": "top",
+      "name": "Test Cyprus",
+      "category": "cy",
       "type": "m3u",
       "url": "https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8",
       "icon": "https://greektvapp.github.io/api/logos/ert1.png",
